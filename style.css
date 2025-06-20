@@ -49,6 +49,7 @@ body {
     align-items: center;
     cursor: pointer;
     padding: 1rem 0;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .content .item .item-header h3 {
@@ -81,7 +82,14 @@ body {
     padding: .5rem 0 1rem 0;
 }
 
-.item .item-header:hover {
+@media (hover: hover) {
+    .item .item-header:hover {
+        color: var(--hover);
+        transition: 0.1s;
+    }
+}
+
+.item .item-header:active {
     color: var(--hover);
     transition: 0.1s;
 }
