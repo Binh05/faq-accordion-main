@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Binh05/faq-accordion-main](https://github.com/Binh05/faq-accordion-main)
+- Live Site URL: [https://binh05.github.io/faq-accordion-main/](https://binh05.github.io/faq-accordion-main/)
 
 ## My process
 
