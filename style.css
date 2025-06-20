@@ -89,11 +89,6 @@ body {
     }
 }
 
-.item .item-header:active {
-    color: var(--hover);
-    transition: 0.1s;
-}
-
 #minus-icon {
     display: none;
 }
